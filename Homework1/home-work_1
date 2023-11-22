@@ -1,0 +1,20 @@
+1. Write a Dart program that takes a user's name as input and prints a customized greeting using string interpolation.
+e.g.
+	Input: USERNAME
+	Result: Hello USERNAME
+Then insert 2 numbers: USER weight and height, calculate his BMI and concatenate it in the string above.
+	Final result: Hello USERNAME. Your BMI is USER'S_BMI.
+
+2. Create a Dart program that performs basic arithmetic operations (addition, subtraction, multiplication, division) on two numbers entered by the user. 
+
+3. Write a Dart function that takes a numeric string as input and converts it to an integer. Handle cases where the input might not be a valid number.
+
+4. Write a Dart program that takes a user's age as input. Use a conditional expression to print "Minor" if the age is less than 18, "Adult" if it is 18 or older, and "Unknown" if the age is null.
+
+5. Write a Dart function that accepts nullable parameters and provides a default value if any of them is null.
+
+6. Define two Dart functions: one that takes a nullable integer and doubles it, and another that takes a nullable integer and squares it. Compose these functions to create a new function that doubles and then squares a nullable integer.
+
+7. Write a Dart function that takes two parameters: a required integer and an optional nullable integer. Use the null-aware operators to provide a default value for the optional parameter if it is null. (you can use just void function)
+
+8. Write a Dart function that takes a dynamic parameter and checks if it is an integer or double, then multiply it by 2; if it's a string, print its length; otherwise, handle the null case.
