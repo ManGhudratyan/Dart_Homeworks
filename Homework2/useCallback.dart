@@ -8,5 +8,5 @@ String myFunc(){
 }
 
 void main(){
-  printMessage(() => myFunc());
+  printMessage(myFunc);
 }
