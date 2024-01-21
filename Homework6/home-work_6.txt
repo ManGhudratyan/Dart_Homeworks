@@ -1,0 +1,34 @@
+1. Create a Dart program that reads a text file named "input.txt" and prints its contents to the console.
+
+2. Write a Dart function that takes a filename and a string as parameters and writes the string to the specified file.
+
+3. Extend the program to check if the file "output.txt" exists. If it does, append the contents of "input.txt" to "output.txt"; otherwise, create a new "output.txt" file.
+
+4. Read the contents of "person.json", deserialize it and print the person's information to the console.
+person.json content - 
+{
+	"employees":[  
+    	{"name":"Shyam", "email":"shyamjaiswal@gmail.com"},  
+    	{"name":"Bob", "email":"bob32@gmail.com"},  
+    	{"name":"Jai", "email":"jai87@gmail.com"}  
+	]
+}  
+
+5. Create a JSON string representing a list of books, each with properties like title, author, and publication year. Decode the JSON string and print the details of each book to the console. 
+ 5.1. Differentiate the books by it's publication year. For instance, those books were pubished in 2023, filter out and print the list of that books.
+ 5.2. Create a new files named "old-books.json" and "new-books.json". Write the content to the files from filtered lists accordingly.
+  old-books.json example:
+  	{
+		"newBooks": [
+   		....
+		]
+	}
+  new-books.json example:
+  	{
+		"newBooks": [
+   		....
+		]
+	}
+
+6. Write a Dart program that reads a JSON file containing a list of numbers. Sum the numbers and print the result to the console.
+ 6.1. Modify the program to write the sum to a new file named "sum.txt".

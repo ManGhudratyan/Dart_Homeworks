@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "title": "Three Comrades",
+            "author": "Erich Maria Remarque",
+            "publication_year": 1937
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "publication_year": 1949
+        },
+        {
+            "title": "Arch of triumph",
+            "author": "Erich Maria Remarque",
+            "publication_year": 1945
+        },
+        {
+            "title": "The Hobbit or There and Back Again",
+            "author": " J.R.R. Tolkien",
+            "publication_year": 1937
+        },
+        {
+            "title": "Me Before You",
+            "author": "Jojo Moyes",
+            "publication_year": 2012
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "publication_year": 1951
+        },
+        {
+            "title": "Atlas Shrugged",
+            "author": "Ayn Rand",
+            "publication_year": 1957
+        },
+        {
+            "title": "Catch-22",
+            "author": "Joseph Heller",
+            "publication_year": 1961
+        }
+    ]
+}
