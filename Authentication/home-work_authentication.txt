@@ -1,0 +1,20 @@
+The app asks you to choose options between login and registration. 
+
+	E.g. Choose an option for auth: Login/Registration
+Those 2 functionalities will use the same auth.json file. (Empty for the first time)
+- If the user chooses the login option need to ask to provide his login password. After providing them check if the user exists in the file, then print "successfully logged in", otherwise, "invalid credentials". 
+- If the user chooses the registration option need to ask to provide his login, password, email. Then check if the auth.json file contains such login and email, raise an errror "Account already exists", otherwise add the user info into the file.
+Example of the file:
+auth.json:
+  [
+    {
+      "login": "MYLOGIN"
+      "password": "MYPASSWORD"
+      "email": "MYEMAIL@gmail.com"
+    }
+  ]
+
+
+- If the user chooses the login option need to ask to provide his login password. 
+- After providing them check if the user exists in the file, then print "successfully logged in",
+- otherwise, "invalid credentials". 
