@@ -1,0 +1,7 @@
+1. Create a base class Shape with methods area and perimeter. Then create subclasses like Rectangle and Circle inheriting from Shape and override the respective methods. Calculate area and perimeter for both classes.
+
+2. Define a class Animal with a method makeSound(). Then create subclasses like Dog, Cat, and Cow overriding the makeSound() method to produce different sounds.
+
+3. Define an interface Flyable with a method fly(). Then create classes like Bird and Airplane implementing the Flyable interface. 
+
+4. Create a class MathUtils with static methods like add, subtract, multiply, and divide.
